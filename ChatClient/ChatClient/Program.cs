@@ -34,3 +34,5 @@ app.MapRazorComponents<App>()
     .AddAdditionalAssemblies( typeof( ChatClient.Client._Imports ).Assembly );
 
 app.Run();
+
+//Quick edit to see if it works
